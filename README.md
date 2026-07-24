@@ -16,6 +16,14 @@ Every answer is **educational, cited, and clearly not financial advice** — the
 
 ---
 
+## 🎬 Demo
+
+![AI Finance Assistant demo](docs/demo.gif)
+
+*A tour of the multi-tab interface — agent-routed chat with cited answers, portfolio analysis with allocation charts, live market lookups, and goal projections in nominal and today's dollars.*
+
+---
+
 ## ✨ Highlights
 
 - 🤖 **Five specialized agents**, each with a clean separation of concerns and its own guardrails
