@@ -1,0 +1,30 @@
+# Secrets
+.env
+.env.local
+
+# Build artifacts (regenerate with scripts/build_index.py)
+src/data/index/
+
+# Runtime data (conversation history, local DBs)
+src/data/assistant.db*
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS
+.DS_Store
+
+# Claude Code local config
+.claude/
