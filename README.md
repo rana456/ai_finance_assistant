@@ -297,13 +297,3 @@ This project treats the education/advice line as a first-class engineering const
 ## ⚠️ Disclaimer
 
 This software is for **educational purposes only** and does **not** constitute financial, investment, or tax advice. Market data may be delayed or inaccurate. Always consult a licensed financial advisor or tax professional before making decisions.
-
----
-
-## 📄 License
-
-Released under the [MIT License](LICENSE). Financial content is grounded in public-domain government sources (SEC, IRS) and the openly-licensed Bogleheads wiki, with attribution tracked per article.
-
----
-
-<p align="center"><i>Built as a capstone in applied agentic AI — combining multi-agent orchestration, RAG, and real-time data into a beginner-friendly financial educator.</i></p>
